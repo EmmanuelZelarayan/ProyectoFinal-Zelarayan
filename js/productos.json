@@ -1,0 +1,172 @@
+[
+    {
+        "id": "Fuente-01",
+        "titulo": "Fuente Noga ATX-550w",
+        "imagen": "./img/fuentes/01.jpg",
+        "categoria": {
+            "nombre": "Fuentes",
+            "id": "fuentes"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "Fuente-02",
+        "titulo": "Fuente Aureox 650w 02",
+        "imagen": "./img/fuentes/02.jpg",
+        "categoria": {
+            "nombre": "Fuentes",
+            "id": "fuentes"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "Fuente-03",
+        "titulo": "Fuente Gamemax VP-600w RGB",
+        "imagen": "./img/fuentes/03.jpg",
+        "categoria": {
+            "nombre": "Fuentes",
+            "id": "fuentes"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "Fuente-04",
+        "titulo": "Fuente PC Gamemax 700w",
+        "imagen": "./img/fuentes/04.jpg",
+        "categoria": {
+            "nombre": "Fuentes",
+            "id": "fuentes"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "Fuente-05",
+        "titulo": "Fuente RedDragon Gc-ps001 500w",
+        "imagen": "./img/fuentes/05.jpg",
+        "categoria": {
+            "nombre": "Fuentes",
+            "id": "fuentes"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Mothers-01",
+        "titulo": "Mother Gigabyte B550M S2H",
+        "imagen": "./img/Mothers/01.jpg",
+        "categoria": {
+            "nombre": "Mothers",
+            "id": "mothers"
+        },
+        "precio": 23000
+    },
+    {
+        "id": "Mothers-02",
+        "titulo": "Mother MSI B450 Tomahawk",
+        "imagen": "./img/Mothers/02.jpg",
+        "categoria": {
+            "nombre": "Mothers",
+            "id": "mothers"
+        },
+        "precio": 22000
+    },
+    {
+        "id": "Mothers-03",
+        "titulo": "Mother Gigabyte Z590M",
+        "imagen": "./img/Mothers/03.jpg",
+        "categoria": {
+            "nombre": "Mothers",
+            "id": "mothers"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "Mothers-04",
+        "titulo": "Mothers MSI B460M-A PRO",
+        "imagen": "./img/Mothers/04.jpg",
+        "categoria": {
+            "nombre": "Mothers",
+            "id": "mothers"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "Mothers-05",
+        "titulo": "Mother Gigabyte H310M",
+        "imagen": "./img/Mothers/05.jpg",
+        "categoria": {
+            "nombre": "Mothers",
+            "id": "mothers"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "Mothers-06",
+        "titulo": "Mother Gigabyte A320M-S2H",
+        "imagen": "./img/Mothers/06.jpg",
+        "categoria": {
+            "nombre": "Mothers",
+            "id": "mothers"
+        },
+        "precio": 26500
+    },
+    {
+        "id": "Mothers-07",
+        "titulo": "Mother Gigabyte N5105I-H",
+        "imagen": "./img/Mothers/07.jpeg",
+        "categoria": {
+            "nombre": "Mothers",
+            "id": "mothers"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "Ram-01",
+        "titulo": "Memoria Ram DDR4 Kingston 8GB",
+        "imagen": "./img/Rams/01.jpg",
+        "categoria": {
+            "nombre": "Rams",
+            "id": "Rams"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "Ram-02",
+        "titulo": "Memoria Ram DDR4 XPG 8GB",
+        "imagen": "./img/Rams/02.jpg",
+        "categoria": {
+            "nombre": "Rams",
+            "id": "Rams"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "Ram-03",
+        "titulo": "Memoria Ram DDR4 HyperX 8GB",
+        "imagen": "./img/Rams/03.jpg",
+        "categoria": {
+            "nombre": "Rams",
+            "id": "Rams"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "Ram-04",
+        "titulo": "Memoria Ram DDR4 XLR8 8GB",
+        "imagen": "./img/Rams/04.jpg",
+        "categoria": {
+            "nombre": "Rams",
+            "id": "Rams"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "Ram-05",
+        "titulo": "Memoria Ram DDR3 Kingston 8GB",
+        "imagen": "./img/Rams/05.jpg",
+        "categoria": {
+            "nombre": "Rams",
+            "id": "Rams"
+        },
+        "precio": 10000
+    }
+]
